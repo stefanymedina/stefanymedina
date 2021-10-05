@@ -5,6 +5,7 @@ to automatie the task that the developers need to do all tasks
   - Kubernetes
   - Aws
   - API Rest
+  - python
 
 - 📫 How to reach me ...
 
